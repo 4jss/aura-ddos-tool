@@ -1,9 +1,7 @@
 # Aura
-
 Aura is an HTTP DoS Tool.
 
 ## Usage
-
      USAGE: node app.js [OPTIONS]
 
      OPTIONS:
